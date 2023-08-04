@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color: #ffffff;
+    height: 100vh;
+}
+
+.color-picker-heading {
+    font-family: "open Sans";
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+}
+
+.button {
+    font-family: "open sans";
+    font-size: 14px;
+    border-radius: 20px;
+    border-color: black;
+    border-width: 3px;
+    margin-bottom: 10px;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+.button-1 {
+    background-color: #e0e0e0;
+
+}
+
+.button-2 {
+    background-color: #6fcf97;
+}
+
+.button-3 {
+    background-color: #56ccf2;
+}
+
+.button-4 {
+    background-color: #bd6bd9;
+}
+
+.selected-color-text {
+    background-color: #222222;
+    color: #ffffff;
+    text-align: center;
+    border-radius: 8px;
+    font-size: 25px;
+    font-weight: 600;
+    padding: 8px;
+}
+
+.selected-color-hex-code {
+    font-family: open sans;
+    color: #49a6e9;
+    font-weight: 600;
+}
+
+.color-picker-instruction {
+    font-family: open sans;
+    font-size: 15px;
+    text-align: center;
+    padding-bottom: 20px;
+}
